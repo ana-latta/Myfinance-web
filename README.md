@@ -1,2 +1,2 @@
-# my_finance
+# Myfinance web
 Personal Finanace App
